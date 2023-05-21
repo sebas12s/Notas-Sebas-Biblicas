@@ -1,5 +1,10 @@
-# Notas Biblicas de Sebastian Perez
-## [@sebasu.u](https://www.instagram.com/sebassu.u/)
-Aqui es donde voy anotando mis notas con una aplicacion de react para generar componentes reutilizables 
+# Notas Biblicas de Sebastian Perez 
+Aqui es donde voy anotando mis notas con una aplicacion de react. 
 
-Si quieres ver el resultado final lo subi a netlify:
+Si quieres ver el resultado final lo subi a netlify: 
+
+[Notas-Sebas-Biblicas](https://notas-biblicas-sebas.netlify.app/)
+
+---
+
+Sigueme :3 [@sebasu.u](https://www.instagram.com/sebassu.u/)
