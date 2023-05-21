@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor {
+    width: 1170px;
+    min-height: 368px;
+    background: #52796F;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    border-radius: 25px;
+    margin-bottom: 45px;
+}
+
+.caja-principal {
+    width: 70vw;
+}
+
+.titulo {
+    font-size: 46px;
+    text-align: center;
+    border-bottom: 4px solid #fff;
+}
+
+.parrafo {
+    font-size: 24px;
+    margin: 30px 0;
+}

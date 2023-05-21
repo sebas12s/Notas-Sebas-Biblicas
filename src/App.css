@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body, html {
+    background: #CAD2C5;
+    color: #2F3E46;
+    font-family: 'Caveat', cursive;
+}
+
+.title {
+    text-align: center;
+    font-size: 55px;
+}
