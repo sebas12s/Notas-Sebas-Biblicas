@@ -132,23 +132,34 @@ function App() {
       </Card>
 
       <Card title='Un dia despues de la muerte'>
-      <Link text='Eclesiastes 8:8' src='https://www.bible.com/bible/127/ECC.8.NTV' />
-      No podemos librarnos de ese dia, solo Dios tiene el control <Br />
-      Las personas entran en un gran desanimo, los que se quedan sufren <Br />
-      No afarnarnos por las cosas que dejan <Br />
-      Portarnos bien para no tener remordimiento <Br />
-      Lo que tienes comelo, disfrutalo, no nos llevamos nada y solo lo dejamos para pleitos 
-      <Link text='Eclesiastes 3:13' src='https://www.bible.com/bible/127/ECC.3.NTV' /> goza de lo que tienes <Br />
-      Algun dia solo seremos un recuedo, asi que tratar de ser uno bueno por lo menos. <Br />
-      Recuerda que tu diploma no les dara de comer a las personas que se quedan asi que mejor ve y haz lindos recuerdos no te afanes con el conocimiento procura disfrutar mas tu vida <Br />
-      No guardes tu cuerpo este cuerpo no es eterno, mejor busca de Dios, mejor cuida tu alma <Br />
-      Nos comparan como animales <Link text='Salmos 32:9' src='https://www.bible.com/bible/127/PSA.32.NTV' /> 
-      <Link text='Isaias 1:3' src='https://www.bible.com/bible/127/ISA.1.NTV' /> que somos pues para reverlarnos o decirle algo al padre. <Br />
-      Los años se estan acabando, que hemos hecho por el señor? hemos ganado un galardon? hemos dado a luz a una ovejita? recuerda que la esterilidad es una vergüenza 
-      <Link text='Lucas 1:25' src='https://www.bible.com/bible/127/LUK.1.NTV' /> <Br />
-      Que beneficio tiene tu vida, es lindo cuando llevas a una alma a los pies de Dios, quitemonos esa vergüenza, recordemos los galardones que recibiremos, ora por esas ovejas. <Br />
-      Recuerda que este cuerpo es una carcel y que la muerte es una ganacia.
-      <Link text='Filipenses 1:21' src='https://www.bible.com/bible/149/PHP.1.RVR1960' />
+        <Link text='Eclesiastes 8:8' src='https://www.bible.com/bible/127/ECC.8.NTV' />
+        No podemos librarnos de ese dia, solo Dios tiene el control <Br />
+        Las personas entran en un gran desanimo, los que se quedan sufren <Br />
+        No afarnarnos por las cosas que dejan <Br />
+        Portarnos bien para no tener remordimiento <Br />
+        Lo que tienes comelo, disfrutalo, no nos llevamos nada y solo lo dejamos para pleitos 
+        <Link text='Eclesiastes 3:13' src='https://www.bible.com/bible/127/ECC.3.NTV' /> goza de lo que tienes <Br />
+        Algun dia solo seremos un recuedo, asi que tratar de ser uno bueno por lo menos. <Br />
+        Recuerda que tu diploma no les dara de comer a las personas que se quedan asi que mejor ve y haz lindos recuerdos no te afanes con el conocimiento procura disfrutar mas tu vida <Br />
+        No guardes tu cuerpo este cuerpo no es eterno, mejor busca de Dios, mejor cuida tu alma <Br />
+        Nos comparan como animales <Link text='Salmos 32:9' src='https://www.bible.com/bible/127/PSA.32.NTV' /> 
+        <Link text='Isaias 1:3' src='https://www.bible.com/bible/127/ISA.1.NTV' /> que somos pues para reverlarnos o decirle algo al padre. <Br />
+        Los años se estan acabando, que hemos hecho por el señor? hemos ganado un galardon? hemos dado a luz a una ovejita? recuerda que la esterilidad es una vergüenza 
+        <Link text='Lucas 1:25' src='https://www.bible.com/bible/127/LUK.1.NTV' /> <Br />
+        Que beneficio tiene tu vida, es lindo cuando llevas a una alma a los pies de Dios, quitemonos esa vergüenza, recordemos los galardones que recibiremos, ora por esas ovejas. <Br />
+        Recuerda que este cuerpo es una carcel y que la muerte es una ganacia.
+        <Link text='Filipenses 1:21' src='https://www.bible.com/bible/149/PHP.1.RVR1960' />
+      </Card>
+
+      <Card title='Un segundo despues de la muerte' >
+        En un abrir y cerrar de ojos sonara la trompeta y toda oportunidad terminar, por eso nos venimos preparanado dia con dia, podemos vivir la vida como queramos pero todos nos presentaremos ante Dio el nos dio la libertad de escoger bien o mal. <Br />
+        Nosotros mismos acortamos la vida, <Link text='Nehemias 9:6' src='https://www.bible.com/bible/127/NEH.9.NTV' /> Tu solo tu Dios
+        <Br /><Link text='Isaias 44:1' src='https://www.bible.com/bible/127/ISA.44.NTV' /> El nos eligio, el nombre, todo el lo eligio, entonces no maldecir a tus padres o a otra cosa por tus condiciones por tu pobreza o algo asi. <Br />
+        El olvido tu pecadopero arrepientete <Link text='Hechos 17:30' src='https://www.bible.com/bible/127/ACT.17.NTV' /> El vino a perdonar pero nos demanda que ya no pequemos mas. <Br />
+        Muestra al mundo nuestra transformacion, por medio del testimonio <Link text='1 Juan 3:1' src='https://www.bible.com/bible/127/1JN.3.NTV' /> No solo fuimos llamados para ser hijios de Dios tambien para cumplir su proposito. <Br />
+        El primer compromiso a sido con Dios como el matrimonio. <Link text='Efesios 1:3-5' src='https://www.bible.com/bible/127/EPH.1.NTV' /> Antes de la creacion del mundo el nos habia escogido y nos amo, todos tenemos un plan divino de Dios, el nos da el perdon y hasta una herencia <Link text='1 Pedro 1:3-12' src='https://www.bible.com/bible/127/1PE.1.NTV' /> y aparte de la herencia el promete que estara con nosotros, dijo que donde Jesus esta el quiere que nosotros estemos y Jesus esta a la diestra del Padre. En aquel dia lo veremos cara a cara al segundo, asi que pelea la buena batalla. <Br />
+        <Link text='Marcos 8:34-35' src='https://www.bible.com/bible/127/MRK.8.NTV' /> Pertenecemos a su familia, beneficios de ser su familia <Link text='Filipenses 4:19' src='https://www.bible.com/bible/127/MRK.8.NTV' /> <Br />
+        Somos de Dios <Link text='Juan 17:10' src='https://www.bible.com/bible/127/JHN.17.NTV' /> <Br /> No hablar si somos hijos de Dios <Link text='Lucas 15:31' src='https://www.bible.com/bible/127/LUK.15.NTV' />
       </Card>
     </div>
     
